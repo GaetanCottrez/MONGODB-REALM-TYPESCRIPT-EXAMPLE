@@ -26,6 +26,10 @@ npm ci
 npm run build
 ```
 
+## Before Getting Started
+Click on the button `Use Template` in [MONGODB-REALM-TYPESCRIPT-EXAMPLE](https://github.com/GaetanCottrez/MONGODB-REALM-TYPESCRIPT-EXAMPLE) and clone your fresh repository :
+![Use Template](./images/use-template.png)
+
 ## Getting Started
 You need to modify some value in different files :
 * Change line 5 (`"clusterName": "<Name-Of-Your-Cluster>"`) in `data_sources/mongodb-atlas/config.json`. Adding the name of your cluster in Mongo Atlas. The name of your cluster is next to the button `Connect` : 
